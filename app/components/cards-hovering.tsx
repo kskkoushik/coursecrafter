@@ -1,3 +1,5 @@
+"use client";
+
 import { HoverEffect } from "@/app/components/ui/card-hover-effect";
 
 export function CardHoverEffectDemo() {
