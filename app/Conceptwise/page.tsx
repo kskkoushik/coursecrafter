@@ -1,3 +1,5 @@
+"use client";
+
 import React from "react";
 import { AuroraBackgroundDemo2 } from "../components/subtopics";
 
